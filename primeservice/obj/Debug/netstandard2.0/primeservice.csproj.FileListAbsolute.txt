@@ -1,0 +1,9 @@
+C:\Users\Zaki\source\unittest\primeservice\bin\Debug\netstandard2.0\primeservice.deps.json
+C:\Users\Zaki\source\unittest\primeservice\bin\Debug\netstandard2.0\primeservice.dll
+C:\Users\Zaki\source\unittest\primeservice\bin\Debug\netstandard2.0\primeservice.pdb
+C:\Users\Zaki\source\unittest\primeservice\obj\Debug\netstandard2.0\primeservice.csprojAssemblyReference.cache
+C:\Users\Zaki\source\unittest\primeservice\obj\Debug\netstandard2.0\primeservice.csproj.CoreCompileInputs.cache
+C:\Users\Zaki\source\unittest\primeservice\obj\Debug\netstandard2.0\primeservice.AssemblyInfoInputs.cache
+C:\Users\Zaki\source\unittest\primeservice\obj\Debug\netstandard2.0\primeservice.AssemblyInfo.cs
+C:\Users\Zaki\source\unittest\primeservice\obj\Debug\netstandard2.0\primeservice.dll
+C:\Users\Zaki\source\unittest\primeservice\obj\Debug\netstandard2.0\primeservice.pdb
