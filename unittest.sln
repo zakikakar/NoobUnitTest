@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primeservice", "primeservice\primeservice.csproj", "{9CE6492A-A0F8-4538-9C57-47720425337A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeService.Tests", "PrimeService.Tests\PrimeService.Tests.csproj", "{AAD0C73D-BD09-48E4-967C-FA4C0254AB8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{9CE6492A-A0F8-4538-9C57-47720425337A}.Release|x64.Build.0 = Release|Any CPU
 		{9CE6492A-A0F8-4538-9C57-47720425337A}.Release|x86.ActiveCfg = Release|Any CPU
 		{9CE6492A-A0F8-4538-9C57-47720425337A}.Release|x86.Build.0 = Release|Any CPU
+		{AAD0C73D-BD09-48E4-967C-FA4C0254AB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD0C73D-BD09-48E4-967C-FA4C0254AB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD0C73D-BD09-48E4-967C-FA4C0254AB8B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AAD0C73D-BD09-48E4-967C-FA4C0254AB8B}.Debug|x64.Build.0 = Debug|Any CPU
+		{AAD0C73D-BD09-48E4-967C-FA4C0254AB8B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AAD0C73D-BD09-48E4-967C-FA4C0254AB8B}.Debug|x86.Build.0 = Debug|Any CPU
+		{AAD0C73D-BD09-48E4-967C-FA4C0254AB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD0C73D-BD09-48E4-967C-FA4C0254AB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD0C73D-BD09-48E4-967C-FA4C0254AB8B}.Release|x64.ActiveCfg = Release|Any CPU
+		{AAD0C73D-BD09-48E4-967C-FA4C0254AB8B}.Release|x64.Build.0 = Release|Any CPU
+		{AAD0C73D-BD09-48E4-967C-FA4C0254AB8B}.Release|x86.ActiveCfg = Release|Any CPU
+		{AAD0C73D-BD09-48E4-967C-FA4C0254AB8B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
